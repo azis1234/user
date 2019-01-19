@@ -7,9 +7,9 @@ $baca_plus=$red."
 | |_) | (_| | (_| (_| |$kuning |  __/| | |_| \__ \ $red
 |____/ \__,_|\___\__,_|$kuning |_|   |_|\__,_|___/$putih
  ------------------------------------------
-[ Creator by :$ijo Cocentz$putih | Kode :$ijo F2YPBIHf0h$putih ]
+[ Creator by :$ijo Azis$putih | Kode :$ijo F2YPBIHf0h$putih ]
  ------------------------------------------".$t;
-$msg_baca=$putih."[$red!$putih] Official Channel YouTube 👉 Channel Cocentz 😉".$t;
+$msg_baca=$putih."[$red!$putih] Official Channel YouTube 👉 AW 2000 😉".$t;
 $msg_plus=$putih."[".$biru."-".$putih."] Kreasikan Copasmu,Jangan Copas Kreasiku.!!".$t;
 $stat_baca=true;
 /* Money cube */
@@ -19,7 +19,7 @@ $money_cube=$turkis."
 ▐█ ▌▐▌▐█· ▄█▀▄ ▐█▐▐▌▐▀▀▪▄▐█▌▐█▪██ ▄▄█▌▐█▌▐█▀▀█▄▐▀▀▪▄
 ██ ██▌▐█▌▐█▌.▐▌██▐█▌▐█▄▄▌ ▐█▀·.▐███▌▐█▄█▌██▄▪▐█▐█▄▄▌
 ▀▀  █▪▀▀▀ ▀█▄▀▪▀▀ █▪ ▀▀▀   ▀ • ·▀▀▀  ▀▀▀ ·▀▀▀▀  ▀▀▀$putih
-Creator:$ijo Cocentz$putih | Kode:$ijo 3GRKE$putih | YT:$kuning Channel Cocentz$turkis
+Creator:$ijo Azis$putih | Kode:$ijo 3GRKE$putih | YT:$kuning chanel AW 2000$turkis
 ░░ ░ ░ ▒  ░   ░ ░   ░   ▒ ▒ ░░  ░   ░░░ ░ ░  ░  ░   ░
    ░     ░ ░  ░ ░  ░░ ░   ░ ░ ░   ░         ░  ░
  ░     ░     ░           ░       ░      ░ ░   ░    ░".$t;
