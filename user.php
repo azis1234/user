@@ -5,7 +5,7 @@ echo $putih."[$kuning!$putih] Resiko sepenuhnya di tanggung pengguna".$t;
 $msgwe=$putih."[$red!$putih] Update News Script VIP$red v.2.0$putih".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
-$msgads=$putih."[$biru>$putih] Subscribe Channel YT Channel Cocentz & adi bordir 😁".$t;
+$msgads=$putih."[$biru>$putih] Subscribe Channel YT Channel AW 2000 & adi bordir 😁".$t;
 $msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
 $stat_dony=true;
 $st_dony=true;
